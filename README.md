@@ -1,3 +1,3 @@
 # Vanessa Aguilasocho
-![Description of Image](img/LearnCS8 4.png) `
+![Description of Image](img/image.png) `
 
